@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "author":"Colleen Hoover",
+        "name":"It Ends With Us",
+        "description":"A powerful and emotional novel that explores difficult themes such as domestic violence.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/813aV273-rL._AC_UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "id":2,
+        "author":"Colleen Hoover",
+        "name":"Heart Bones",
+        "description":"A coming-of-age story about a young woman named Beyah who spends the summer with her estranged father.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/71WpLraZ8ML._AC_UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "id":3,
+        "author":"Colleen Hoover",
+        "name":"Maybe Someday",
+        "description":"Tells the story of Sydney, who finds herself drawn to her neighbor, Ridge, a talented musician.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81fn0wQzeBL._AC_UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "id":4,
+        "author":"Mark Twain",
+        "name":"The Adventures of Tom Sawyer",
+        "description":"This novel is a classic of American literature and follows the adventures of a young boy.",
+        "price":0,
+        "category":"Free",
+        "image":"https://rupapublications.co.in/wp-content/uploads/2023/05/The-Adventures-of-Tom-Sawyer-Front-scaled.jpg"
+    },
+
+    {
+        "id":5,
+        "author":"Mark Twain",
+        "name":"The Prince and the Pauper",
+        "description":"A novel set in 16th-century England, it tells the story of two boys who look identical.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81NpeY+da+L._AC_UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "id":6,
+        "author":"Mark Twain",
+        "name":"The Innocents Abroad",
+        "description":"This book written by Mark Twain is a travelogue based on Twain's journey through Europe`.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/617HXL6TOOL.jpg"
+    },
+
+    {
+        "id":7,
+        "author":"Rudyard Kipling",
+        "name":"The Jungle Book",
+        "description":"A collection of stories set in the jungles of India, featuring Mowgli, a young boy raised by wolves, and various animal characters.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/71SRA6-21BL._AC_UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "id":8,
+        "author":"Rudyard Kipling",
+        "name":"Kim",
+        "description":"A novel set in British-ruled India, Kim tells the story of an orphaned boy who grows up as a street urchin and becomes involved in espionage.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/71CCOSwH3uL._AC_UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "id":9,
+        "author":"Rudyard Kipling",
+        "name":"Captains Courageous",
+        "description":"A novel about a spoiled rich boy named Harvey Cheyne who falls overboard from a transatlantic liner and is rescued by fishermen.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/51CDNX7XZJL.jpg"
+    },
+
+    {
+        "id":10,
+        "author":"William Shakespeare",
+        "name":"Hamlet",
+        "description":"The book written by William depicts the story of Prince Hamlet of Denmark seeking revenge for his father's murder.",
+        "price":100,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/81WjiwVfdmL._AC_UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "id":11,
+        "author":"Mirza Ghalib",
+        "name":"Diwan-E-Ghalib",
+        "description":"A powerful and emotional novel that explores difficult themes such as domestic violence.",
+        "price":300,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/71pe0dqYZBL._AC_UF1000,1000_QL80_.jpg"
+    },
+
+
+    {
+        "id":12,
+        "author":"Jane Austen",
+        "name":"Pride And Prejudice",
+        "description":"A classic romance novel that explores themes of class, marriage, and social expectations in early 19th-century.",
+        "price":300,
+        "category":"Paid",
+        "image":"https://m.media-amazon.com/images/I/91eKRbuhgaL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
